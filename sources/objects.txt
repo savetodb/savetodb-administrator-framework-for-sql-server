@@ -1,0 +1,10 @@
+xls.usp_database_permissions
+xls.usp_database_permissions_change
+xls.usp_object_permissions
+xls.usp_object_permissions_change
+xls.usp_principal_permissions
+xls.usp_principal_permissions_change
+xls.usp_role_members
+xls.usp_role_members_change
+xls.xl_parameter_values_principal
+xls.xl_parameter_values_schema
